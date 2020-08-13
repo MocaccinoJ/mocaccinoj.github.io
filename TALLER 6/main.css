@@ -1,0 +1,33 @@
+.header_educacion {
+    text-transform: uppercase;
+    color: darkcyan;
+    border-bottom: solid 5px lightblue;
+    font-size: 1.2em;
+}
+.ano_educacion{
+    font-weight: bold;
+}
+.titulo_educacion{
+    font-weight: bold;
+}
+.lugar_educacion{
+    font-weight: bold;
+}
+.ano_educacion{
+    font-weight: bold;
+}
+.bloque_educacion{
+    padding-top: 10px ;
+    border-bottom: solid 2px lightgray;
+
+}
+.izquierda{
+    width: 50%;
+    float: left;
+    background-color: lightslategrey;
+}
+.derecha{
+    width: 50%;
+    float: right;
+    background-color: maroon;
+}
